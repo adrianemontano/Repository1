@@ -6,5 +6,4 @@ Some text
 Some text
 
 ### Third header
-
-Some text again
+This is some text

@@ -7,4 +7,6 @@ Some text
 
 ### Third header
 
-Some text again
+steps:
+
+step 1: Open index.html in the browser

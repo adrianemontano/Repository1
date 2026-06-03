@@ -29,7 +29,7 @@ step 4 create index.ts file for testing
 Step 1: Open terminal
 Step 2: ran **tsc**     //creates dist directory with the <filename>.js inside
 step3: ran **dist/<filename>.js**     //make sure to add the directory first before the filename since it is configure in tsconfig that .js files created from tsc command will be created in the dist directory. This will run the program
-step 4: ran tsc --watch     // ttells typescript to keep running in the background and recompile .ts files whenever changes are saved. No need for step 2-3. 
+step 4: ran tsc --watch     // ttells typescript to keep running in the background and recompile .ts files whenever changes are saved. No need for step 2. 
 
 ### How to create pull request from previous commits from the same branch
 

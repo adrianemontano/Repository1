@@ -23,3 +23,9 @@ step 2 ran **tsc --init**      // creates tsconfig.json configuration file in th
 step 3 create src folder to store .ts files
 
 step 4 create index.ts file for testing
+
+## How to run typescript codes *.ts files
+
+Step 1: Open terminal
+Step 2: ran **tsc**     //creates dist directory with the <filename>.js inside
+step3: ran **dist/<filename>.js**     //make sure to add the directory first before the filename since it is configure in tsconfig that .js files created from tsc command will be created in the dist directory. This will run the program

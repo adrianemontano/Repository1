@@ -4,6 +4,8 @@
     // File Layout
     "rootDir": "./src",
     "outDir": "./dist",
+    "removeComments": true,
+    "noEmitOnError": true,
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
